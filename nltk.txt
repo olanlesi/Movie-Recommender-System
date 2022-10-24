@@ -1,1 +1,1 @@
-stopwprds
+stopwords
